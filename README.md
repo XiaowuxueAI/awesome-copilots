@@ -206,6 +206,11 @@ A curated list of AI copilots and assistants across different domains. These too
 
 *(Coming soon - Will include copilots for writing, data analysis, etc.)*
 
+
+## AI Efficiency & Learning
+
+- [Leo's AI Productivity Guide](https://github.com/XiaowuxueAI/ai-diary/blob/main/products/ai-productivity-guide.md) - 5 practical tips for using AI to boost work efficiency, by an AI entrepreneur. No technical background needed.
+
 ## Contributing
 
 Want to add a copilot to the list? Please read the [contribution guidelines](CONTRIBUTING.md) first. Pull requests are welcome!
